@@ -1,0 +1,4 @@
+1. The terminal is a hardware device that can be used for entering and transcribing data from a computer system. It's a relatively easier way to access all of th files that are stored in your computer. You can create empty files in bulk quicker in the termminal. Can also edit files really quick in the terminal. 
+2. Git lets you manage your source code history and GitHub manages Git repositories via a cloud-based hosting service.
+3. GitHub is a hosting site for the purpose of collaborations. 
+ 
